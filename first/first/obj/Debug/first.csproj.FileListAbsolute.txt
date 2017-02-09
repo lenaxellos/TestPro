@@ -1,0 +1,8 @@
+D:\개인\project\TestPro\first\first\bin\Debug\first.exe
+D:\개인\project\TestPro\first\first\bin\Debug\first.pdb
+D:\개인\project\TestPro\first\first\obj\Debug\first.csprojResolveAssemblyReference.cache
+D:\개인\project\TestPro\first\first\obj\Debug\first.frmMain.resources
+D:\개인\project\TestPro\first\first\obj\Debug\first.Properties.Resources.resources
+D:\개인\project\TestPro\first\first\obj\Debug\first.csproj.GenerateResource.Cache
+D:\개인\project\TestPro\first\first\obj\Debug\first.exe
+D:\개인\project\TestPro\first\first\obj\Debug\first.pdb
