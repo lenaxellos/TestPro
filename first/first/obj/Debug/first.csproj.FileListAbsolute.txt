@@ -6,3 +6,4 @@ D:\개인\project\TestPro\first\first\obj\Debug\first.Properties.Resources.resou
 D:\개인\project\TestPro\first\first\obj\Debug\first.csproj.GenerateResource.Cache
 D:\개인\project\TestPro\first\first\obj\Debug\first.exe
 D:\개인\project\TestPro\first\first\obj\Debug\first.pdb
+D:\개인\project\TestPro\first\first\obj\Debug\first.frmLogin.resources
